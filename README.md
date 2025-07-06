@@ -96,3 +96,5 @@ client.Count(10).Offset(10).Sort(srt).ChannelList()
 ```
 ## PS
 Feel free to create issue for add new endpoint to this client
+
+Add users.list method
